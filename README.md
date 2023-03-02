@@ -10,7 +10,7 @@ Code for the submission code275
 
 Note that if it cause permission errors, please try: 
 
-`sudo docker pull anonymousauthor000/code275:v2`
+`sudo docker pull anonymousauthor000/code275:v3.1`
 
 (1) Enter the environment:
 
