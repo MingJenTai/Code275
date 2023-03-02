@@ -1,6 +1,6 @@
 # code275
 
-Code for the submission code275
+Code for the submission 275
 
 ## 1*. Preparation A: get the environment by Docker (recommend)
 
