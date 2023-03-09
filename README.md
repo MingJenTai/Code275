@@ -18,7 +18,7 @@ Note that if it cause permission errors, please try:
 
 Note that if it cause permission errors, please try: 
 
-`docker run -i -t anonymousauthor000/code2536:v3.1 /bin/bash`
+`docker run -i -t anonymousauthor000/code275:v3.1 /bin/bash`
 
 Enter the project:
 `cd code275/`
